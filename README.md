@@ -1,10 +1,10 @@
-<h2 align="center"> Hi there 👽</h2>
+<div align="center">
+ <img src="https://profile-counter.glitch.me/EoFeer/count.svg?"  />
+ </div><h2 align="center"> Hi there 👽</h2>
 <br>
 <h3 align="center">👨🏻‍💻 My name is Luiz Fernando and I'm a boy who loves codes!</h3>
 <br>
-<div align="center">
- <img src="https://profile-counter.glitch.me/EoFeer/count.svg?"  />
- </div>
+
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
