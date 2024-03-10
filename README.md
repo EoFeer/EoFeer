@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/22f7a87111394d7e60f48705adc21921/df0060037b2c7bf2-63/s2048x3072/1d93f6a867e0d7d34b9815aa45aaa37c123b9b80.jpg" width=1000>
+<img src="https://64.media.tumblr.com/22f7a87111394d7e60f48705adc21921/df0060037b2c7bf2-63/s2048x3072/1d93f6a867e0d7d34b9815aa45aaa37c123b9b80.jpg" width=1000 alt="gojo-img" >
 <div align="center">
  <img src="https://profile-counter.glitch.me/EoFeer/count.svg?"  />
  </div><h2 align="center"> Hi there 👽</h2>
