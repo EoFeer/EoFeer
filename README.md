@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EoFeer.EoFeer&left_color=yellow&right_color=orange&left_text=views"  />
 </div>
 
-<h2 align="center">👨🏻‍💻 My name is Luiz Fernando and I'm a boy who loves codes!</h2>
+<h2 align="center">👨🏻‍💻 My name is Fernando and I'm a boy who loves codes!</h2>
 <br>
 
 <div align="left">
